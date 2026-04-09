@@ -7,3 +7,4 @@ nls_utf8
 nvme
 zstd
 efivarfs
+br_netfilter

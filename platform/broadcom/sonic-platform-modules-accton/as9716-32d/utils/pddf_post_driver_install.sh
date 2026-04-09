@@ -64,6 +64,6 @@ i2cset -y 0 0x19 0xff 0x00
 i2cset -y 0 0x76 0x0
 i2cset -y 0 0x77 0x0
 
-ir3570_check
+#ir3570_check
 
 echo "AS9716 post PDDF driver install completed"
